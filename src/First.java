@@ -9,5 +9,6 @@ public class First {
     public static void main(String[] args) {
 
         sumOfTwoNumbers(10, 20);
+        System.out.println(sumOfTwoNumbers(10, 20));
     }
 }
