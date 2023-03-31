@@ -15,6 +15,3 @@ public class Star_pattern1 {
         }
     }
 }
-
-
-

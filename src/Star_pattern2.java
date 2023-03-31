@@ -12,8 +12,3 @@ public class Star_pattern2 {
         }
     }
 }
-
-
-
-
-
