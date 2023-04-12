@@ -4,12 +4,6 @@ public class Student {
     private int course;
     private int grade;
 
-    public Student(String name, int course, int grade) {
-        this.name = name;
-        this.course = course;
-        this.grade = grade;
-    }
-
     public Student() {
 
     }
