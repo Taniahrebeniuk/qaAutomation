@@ -30,13 +30,14 @@ public class Product {
     }
 
     public static void main(String[] args) {
-        String targetColor = "зелений";
-        List<Product> products;
-        products = Arrays.asList(
-                new Product("Мишка", 399.99, "чорний"),
-                new Product("Клавіатура", 899.99, "зелений"),
-                new Product("Коврик", 259.99, "зелений"),
-                new Product("Навушники", 1229.99, "синій"));
+
+        String targetColor = "green";
+
+        List<Product> products = Arrays.asList(
+                new Product("Mouse", 399.99, "чblack"),
+                new Product("Keyboard", 899.99, "green"),
+                new Product("Mouse pad", 259.99, "green"),
+                new Product("Headphone", 1229.99, "blue"));
 
         products.stream()
                 .filter(product -> product.getColor().equals(targetColor))
