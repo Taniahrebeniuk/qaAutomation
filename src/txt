@@ -1,0 +1,21 @@
+10 локаторів для веб-елементів на табі Code GitHub.
+
+//a[@id='code-tab'] - code tab
+//span[@class='dropdown-caret']
+//input[@placeholder='Find or create a branch…']
+//a[@href='/Taniahrebeniuk/qaAutomation/find/main']
+//summary[@class="btn ml-2"]
+//button[@class="dropdown-item btn-link"]
+//a[@href='/Taniahrebeniuk/qaAutomation/upload/main']
+//a[@href=‘/Taniahrebeniuk/qaAutomation/branches”]
+//span[@class="Button-content”]
+//div[@class='input-group-button']
+//a[@title='src']
+
+Напишіть 5 xpath локаторів для веб-елементів на табі Actions GitHub
+
+//a [@id="actions-tab"]//ancestor::li
+//input[@name='query']//parent::form
+//div [@class="col-12 col-lg-3 p-2"]//descendant::h2
+//div [@class="d-flex flex-column flex-md-row flex-justify-between"]//following-sibling::h2
+//div[@class="d-flex flex-justify-between px-4 pt-4"]//preceding-sibling::h2
