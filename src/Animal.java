@@ -1,5 +1,5 @@
 public class Animal {
-    private Animal(int eyes) {
+    Animal(int eyes) {
         this.eyes = eyes;
     }
 

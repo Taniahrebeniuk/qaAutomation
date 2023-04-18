@@ -1,3 +1,5 @@
+package HM6;
+
 public class Task_1 {
     public static void smallestValueOfModNumbers(int[] arr) {
         int minModuleDiff = Integer.MAX_VALUE;

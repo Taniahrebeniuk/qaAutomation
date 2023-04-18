@@ -1,3 +1,5 @@
+package HM3;
+
 public class First_task {
     public static void main(String[] args) {
         String a = "Hello";
