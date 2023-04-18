@@ -1,3 +1,5 @@
+package HM3;
+
 public class Star_pattern1 {
     public static void main(String[] args) {
 

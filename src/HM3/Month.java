@@ -1,3 +1,5 @@
+package HM3;
+
 public class Month {
     static void monthDaysCounter(int monthNumber) {
 
